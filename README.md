@@ -1,4 +1,4 @@
-AI Study Assistant
+YourReader
 
 An intelligent study assistant that helps students learn better using AI-powered tools such as flashcard generation, quiz creation, study planning, intelligent chat, and PDF-based note processing.
 
